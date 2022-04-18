@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**fabiomb17/fabiomb17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Name is Fabio Munoz
 
-Here are some ideas to get you started:
+```javascript
+class fmunoz{
+  constructor(this) {
+    this.username = "Fabiomb17",
+    this.name = "Fabio Munoz",
+    this.web = "grustec.com.do",
+    this.mail = "fabiomb17@gmail.com",
+    this.linkedin = "https://do.linkedin.com/in/fabiomunoz",
+    this.source = "Dominican Republic",
+    this.code = {
+                'frontend': ['HTML', 'CSS', 'JavaScript','Boostrap','React'],
+                'backend': ['Python', 'PHP', 'Flask','Node.Js', 'C++'],
+                'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'SQL Server'],
+                'devops': ['Nginx', 'Apache', 'AWS', 'Digital Ocean'],
+                'tools': ['GIT', 'GitHub'],
+                'ides': ['Visual Studio Code', 'DevC++'],
+                'misc': ['GNU/Linux', 'Windows']
+    }
+  }
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+let profile = new fmunoz(this.value);
+```
+
+- 🔭 I’m currently working on cibersecurity software
+- 🌱 I’m currently learning cibersecurity
+- 👯 I’m looking to collaborate on threat intelligence
+- 💬 Ask me about Python and PHP
+- 📫 How to reach me: write me to the mail
+
