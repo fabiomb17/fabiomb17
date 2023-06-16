@@ -3,7 +3,7 @@
 # My Name is Fabio Munoz
 
 ```javascript
-class fmunoz{
+class Fmunoz{
     constructor(this) {
         this.username = "Fabiomb17",
         this.name = "Fabio Munoz",
@@ -23,7 +23,7 @@ class fmunoz{
     }
 }
 
-let profile = new fmunoz(this.value);
+let profile = new Fmunoz(this.value);
 ```
 
 - 🔭 I’m currently working on cibersecurity software
