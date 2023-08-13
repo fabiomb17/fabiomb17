@@ -12,8 +12,8 @@ class Fmunoz{
         this.linkedin = "https://do.linkedin.com/in/fabiomunoz",
         this.source = "Dominican Republic",
         this.code = {
-                'frontend': ['HTML', 'CSS', 'JavaScript','Boostrap','React'],
-                'backend': ['Python', 'PHP', 'Flask','Node.Js', 'C++'],
+                'frontend': ['HTML', 'CSS', 'JavaScript','Boostrap'],
+                'backend': ['Python', 'PHP','Node.Js', 'C++'],
                 'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'SQL Server'],
                 'devops': ['Nginx', 'Apache', 'AWS', 'Digital Ocean'],
                 'tools': ['GIT', 'GitHub'],
